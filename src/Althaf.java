@@ -1,6 +1,6 @@
 public class Althaf{
     public void myName()
     {
-        System.out.println("Althaf");
+        System.out.println("AlthafHussain");
     }
 }
